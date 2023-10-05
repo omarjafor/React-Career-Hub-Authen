@@ -6,11 +6,10 @@ function Banner() {
   return (
     <section className="banner-container text-white">
       <div className=" bg-dark p-5">
-        <div className="row d-flex justify-content-center align-items-center  banner-second-container">
+        <div className="row d-flex justify-content-center align-items-center w-5/6 mx-auto">
           <div className="col-md-6 col-sm-12 ">
-            <h4>Helping you to find any type of job</h4>
             <h1 className="title mt-4">
-              Find Your Dream <br /> Job Today
+              Find Your Dream Job Today
             </h1>
             <div className="Search-box">
               {/* <form className="nosubmit">
