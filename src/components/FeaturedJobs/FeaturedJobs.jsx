@@ -17,12 +17,12 @@ const FeaturedJobs = () => {
       <div className="text-center">
         <h2 className="text-5xl p-14 mb-5">Featured Jobs: {jobs.length}</h2>
       </div>
-      <div className="grid grid-cols-2 gap-6">
+      <div className="grid grid-cols-2 gap-6 mb-10">
         {jobs.slice(0, dataLength).map((job) => (
           <Job key={job.id} job={job}></Job>
         ))}
       </div>
-      <div className={dataLength === jobs.length ? "hidden" : ""}>
+      <div className={dataLength === jobs.length ? "hidden" : "text-center mb-5"}>
         <button
           onClick={() => setDataLength(jobs.length)}
           className="btn btn-primary"
