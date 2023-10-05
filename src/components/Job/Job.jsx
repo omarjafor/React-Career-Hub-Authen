@@ -2,7 +2,9 @@ import { MdLocationOn } from "react-icons/md";
 import { AiOutlineDollar } from "react-icons/ai";
 import { Link } from "react-router-dom";
 
+// eslint-disable-next-line react/prop-types
 const Job = ({ job }) => {
+    // eslint-disable-next-line react/prop-types
     const { id, logo, job_title, company_name, remote_or_onsite, location, job_type, salary } = job;
     return (
         <div className="card card-compact bg-base-100 shadow-xl">
