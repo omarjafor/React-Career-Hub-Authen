@@ -1,7 +1,7 @@
 [
      {
       "id": 1,
-      "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+      "logo": "https://images.unsplash.com/photo-1588741068086-caf60b2ff8ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "job_title": "Technical Database Engineer",
       "company_name": "Google LLC",
       "remote_or_onsite": "Remote",
@@ -20,7 +20,7 @@
     },
     {
         "id": 2,
-        "logo": "https://i.ibb.co/H4wJGhb/netflix-4-1.png",
+        "logo": "https://images.unsplash.com/photo-1621955964441-c173e01c135b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2086&q=80",
         "job_title": "Senior Product Designer",
         "company_name": "Netflix",
         "remote_or_onsite": "Onsite",
@@ -39,7 +39,7 @@
       },
       {
         "id": 3,
-        "logo": "https://i.ibb.co/JRXgX92/tesla-9-1.png",
+        "logo": "https://images.unsplash.com/photo-1589718539308-169369696599?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1965&q=80",
         "job_title": "Software Engineer",
         "company_name": "Tesla",
         "remote_or_onsite": "Onsite",
@@ -58,7 +58,7 @@
       },
       {
         "id": 4,
-        "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+        "logo": "https://images.unsplash.com/photo-1551808525-51a94da548ce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2007&q=80",
         "job_title": "Software Engineer",
         "company_name": "Google LLC",
         "remote_or_onsite": "Onsite",
@@ -77,7 +77,7 @@
       },
       {
         "id": 5,
-        "logo": "https://i.ibb.co/JRXgX92/tesla-9-1.png",
+        "logo": "https://images.unsplash.com/photo-1650375629793-792050421377?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
         "job_title": "Technical Database Engineer",
         "company_name": "Tesla",
         "remote_or_onsite": "Remote",
@@ -96,7 +96,7 @@
       },
       {
         "id": 6,
-        "logo": "https://i.ibb.co/H4wJGhb/netflix-4-1.png",
+        "logo": "https://images.unsplash.com/photo-1633793675529-58eecb6ea16f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2080&q=80",
         "job_title": "Senior Product Designer",
         "company_name": "Netflix",
         "remote_or_onsite": "Remote",
